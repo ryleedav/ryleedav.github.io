@@ -1,0 +1,64 @@
+body {
+    background-color:rgb(174, 224, 231);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(98, 131, 98);
+    padding: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h2 {
+    color:rgb(231, 251, 245);
+    background-color: rgb(9, 88, 98);
+    padding: 1.5rem;
+}
+
+p {
+    margin: 1.5rem;
+    line-height: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+}
+
+img {
+    float: right;
+    border: 2px white solid;
+    margin: .65rem;
+    max-width: 100%;
+}
+
+hr {
+    border: 3px dashed rgb(70, 164, 120);
+}
+
+main {
+    border: 4px white solid;
+    margin: 2rem;
+    margin-top: 0;
+    background-color: aliceblue;
+    max-width: 45rem;
+}
+
+a:link {
+    color: rgb(20, 20, 255);
+    text-decoration: none;
+}
+
+a:visited {
+    color: #03e181;
+}
+
+a:hover {
+    color: #c700b3;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(0, 132, 139);
+}
