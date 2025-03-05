@@ -1,0 +1,68 @@
+body{
+    background-color: #ffeccf;
+    color: #8C6896;
+    margin: 40px;
+    padding: 1.5em;
+    border: 5px solid palevioletred;
+}
+
+h1 {
+    color: #F29496;
+    background-color: #677c98;
+    font-family: "Mystery Quest", system-ui;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    padding: 2rem;
+    border: 3px dotted #c700b3;
+}
+
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2em;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.4em;
+}
+
+li{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.4em;
+}
+
+hr{
+    border: 2px dotted rgb(227, 172, 43);
+}
+
+figcaption{
+    background-color: whitesmoke;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: .65rem;
+}
+
+footer{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    border: 2px white solid;
+    margin: .65rem;
+    max-width: 95%;
+}
+
+a:link {
+    color: rgb(92, 92, 222);
+    text-decoration: none;
+}
+
+a:visited {
+    color: #e19003;
+}
+
+a:hover {
+    color: #c700b3;
+    text-decoration: #F29496 wavy underline;
+}
