@@ -1,0 +1,90 @@
+body {
+    background-image: linear-gradient(to bottom, rgba(255,0,0,0), rgba(255,0,0,1));
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    text-align: right;
+}
+
+main {
+    border: 0px solid red;
+}
+
+.wrapper {
+    border: 0px black solid;
+    margin: 0 auto;
+    max-width: 40rem;
+}
+
+article {
+    background-color: white;
+    border: 1px solid rgb(232, 106, 38);
+    padding: 1.3rem;
+    margin: .5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2.logo {
+    background-color: rgb(255, 86, 2);
+    text-align: center;
+    width: 6rem;
+    height: 6rem;
+    display: grid;
+    align-items: center;
+    border-radius: 50%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+a:link {
+    color: rgb(241, 108, 31);
+    text-decoration: none;
+}
+
+a:visited {
+    color: #e14d03;
+}
+
+a:hover {
+    color: #d8116b;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(252, 231, 5);
+}
+
+header a:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #c24c66;
+    text-decoration: underline;
+}
+
+header a:active {
+    color: rgb(255, 196, 85);
+    text-decoration: overline;
+}
