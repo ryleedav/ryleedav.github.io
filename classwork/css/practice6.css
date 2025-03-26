@@ -9,7 +9,7 @@ li{
 }
 }
 
-@media screen and (orientation:portrait) {
+@media screen and (orientation:landscape) {
 li{
     display: inline-block;
     border: 2px dotted blue;
