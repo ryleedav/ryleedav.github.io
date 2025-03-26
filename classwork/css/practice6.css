@@ -1,4 +1,4 @@
-@media screen and (orientation:portrait) {
+@media only screen and (orientation:portrait) {
 li{
     display: inline-block;
     border: 2px dotted blueviolet;
@@ -9,7 +9,7 @@ li{
 }
 }
 
-@media screen and (orientation:landscape) {
+@media only screen and (orientation:landscape) {
 li{
     display: inline-block;
     border: 2px dotted blue;
