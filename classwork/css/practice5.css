@@ -1,0 +1,10 @@
+
+li{
+    display: inline-block;
+    border: 2px dotted blueviolet;
+    padding: 5px;
+    margin: 2em;
+    border-radius: 10%;
+    height: 20px;
+}
+
