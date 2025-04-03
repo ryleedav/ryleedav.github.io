@@ -70,6 +70,7 @@ body {
 .headshot {
     min-height: 50%;
     float: right;
+    max-height: 50%;
 }
 
 img {
