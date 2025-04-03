@@ -72,10 +72,3 @@ body {
     float: right;
     max-height: 50%;
 }
-
-img {
-    min-height: 100%;
-    max-width: 100%;
-    object-fit: cover;
-}
-
