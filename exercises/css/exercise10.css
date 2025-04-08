@@ -1,0 +1,56 @@
+
+h2 {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 12px;
+    margin: 0px;
+}
+
+main {
+    min-height: 100vh;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+body {
+    margin: 0px;
+}
+nav li {
+    list-style-type: none;
+    background-color: black;
+    margin: 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: lightgray;
+    padding: 25px;
+}
+
+nav a:hover {
+    color: palegoldenrod;
+    background-color: black;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 25px;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+h1 {
+    color: rgb(127, 138, 255);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
