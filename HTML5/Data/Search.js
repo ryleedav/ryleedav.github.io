@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/Assistive-Technology-to-Reduce-Cognitive-Load.htm'],s:['1'],p:[['1',9],['nec',10]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/Assistive-Technology-to-Reduce-Cognitive-Load.htm'],s:['03','viewer'],p:[['03',1],['get',11],['spoken',7]]});
