@@ -42,7 +42,7 @@ Concepts:
 
 The team communicated via text messages to decide who does what section of the project. We peer reviewed each others work with permission to ensure similarity and understanding between all three sections. We did workshops in class to get insight from other teams. Our team mainly had to work apart due to limited class time, however through digital communication we worked well together. 
 
-## Heading 2 - Top 3 things you've learned from this project so far*, use numbered list 
-1. The details are what matter; there is a difference between making something accesible from the start and adapting an existing technology to fit accessibility standards.
-2. Accessibility helps everyone; closed captioning and transcripts are not only used by those hard of hearing.
-3. What cognitive load is, and how we subconsciously experience it everyday academically.
+## Heading 2 - Top 3 things you've learned from this project so far
+1. Clipchamp is another good tool I can use in the future
+2. Chunking matters for everyone; even when peer reviewing it became apparent
+3. What cognitive load is, and how we subconsciously experience it everyday within academics
