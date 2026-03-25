@@ -1,6 +1,6 @@
 #  Digital Accessibility: the importance of chunking, chapters, on-screen markup
 
-## :cupid: About Me / Bio :cupid:
+## :star2: :sparkling_heart: About Me / Bio :sparkling_heart: :star2:
 
 I am Rylee Davis, a third-year student at [University of Massachusetts Amherst]([https://www.umass.edu/)"). I bring a multifaceted skill set and *unwavering* interest within my background of English, journalism, public policy, and technical communication.
 
