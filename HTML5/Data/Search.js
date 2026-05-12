@@ -1,1 +1,0 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/Assistive-Technology-to-Reduce-Cognitive-Load.htm'],s:['+','inch','unlik'],p:[['+',37],['be',41],['digital',11],['impaired',31],['number',9],['sections',17],['to',25],['~',37]]});
